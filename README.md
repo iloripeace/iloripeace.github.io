@@ -1,4 +1,3 @@
-https://github.com/iloripeace/iloripeace.github.io/blob/main/Pictures
 ## Unveiling Insights: A Journey through Data Analytics
 Welcome to my Data Analytics portfolio where I invite you to explore the amazing world of data-driven decisions. As W. Edwards Deming famously said, "In God we Trust, all others must bring Data". This powerful quote encapsulates the essence of my portfolio, showcasing how valuable data is, in guiding informed decision-making and uncovering insights that drive success. I am an experienced Business Data Analyst specializing in Statistical analysis and Data visualization, data mining, data merging, creating and maintaining Professional Dashboards for actionable business insights. I am proficient in PowerBI, Advanced Excel, R, SQL, Python, and Tableau. I also honed several analytical skills and Soft Skills.
 
